@@ -28,8 +28,6 @@
 
 <br />
 
-### - Languages and Tools...
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -42,25 +40,38 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Php](https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-F4645F?style=flat-square&logo=php&logoColor=white) <br />
+![Livewire](https://img.shields.io/badge/-Livewire-303F9F?style=flat-square&logo=livewire&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-BA68C8?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-3776AA?style=flat-square&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=flat-square&logo=vuex&logoColor=white)
-![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-F4645F?style=flat-square&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-E91E63?style=flat-square&logo=jquery&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%231d365d?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Postgres](https://img.shields.io/badge/-Postgres-%23CC6699?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-%F4645F?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23333333?style=flat-square&logo=mongodb)
 
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-00ADD8?style=flat-square&logo=c&logoColor=white)
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231d365d?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-%23CC6699?style=flat-square&logo=vuetify&logoColor=ffffff)
 ![Mantine](https://img.shields.io/badge/-Mantine-%23333333?style=flat-square&logo=mantine)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Antdesign](https://img.shields.io/badge/-AntDesign-%23333333?style=flat-square&logo=antdesign)
+![Antdesign](https://img.shields.io/badge/-AntDesign-00ADD8?style=flat-square&logo=antdesign)
 ![ApexCharts](https://img.shields.io/badge/-ApexCharts-FF4560?style=flat-square&logo=apex-charts&logoColor=white)
 ![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
 
@@ -68,13 +79,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-%23EC4A3F?style=flat-square&logo=figma&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
+![Prettier](https://img.shields.io/badge/-Prettier-339933?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-%23000000?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
