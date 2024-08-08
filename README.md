@@ -10,12 +10,16 @@
 
 <!-- Social icons section -->
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/rohullah-muhammadee-b579ab314"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/rohullah-muhammadee-b579ab314"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/rohmuhammadee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <a href="https://www.instagram.com/rohullahmuhammadee/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
+  <a href="https://wa.me/0093792434677"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn.simpleicons.org/whatsapp"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
+  <a href="mailto:rmuhammadee@gmail.com"><img width="32px" alt="Gmail" title="Gmail" color="white" src="https://cdn.simpleicons.org/gmail"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
 </p>
 
  <h5 align="center">
@@ -82,6 +86,23 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-339933?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23000000?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=microsoft-visual-studio-code)
 
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Monday.com](https://img.shields.io/badge/-Monday.com-6264A7?style=flat-square&logo=mondaydotcom&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+<!-- 
+## Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/rohullahmuhammadee/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/rohullahmuhammadee/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/rohullahmuhammadee/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/rohullahmuhammadee/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/rohullahmuhammadee/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/rohullahmuhammadee/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/rohullahmuhammadee/PokemonGo-Map)
+
+-->
