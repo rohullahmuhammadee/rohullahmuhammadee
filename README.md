@@ -53,6 +53,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=flat-square&logo=vuex&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-E91E63?style=flat-square&logo=jquery&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-%232c3e50?style=flat-square&logo=alpinedotjs&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%231d365d?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Postgres](https://img.shields.io/badge/-Postgres-%23CC6699?style=flat-square&logo=postgresql&logoColor=ffffff)
